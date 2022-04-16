@@ -12,4 +12,4 @@ class TestClass:
         assert par(4) == 1
         assert par(3) == 0
         assert par(5) == 0
-        assert par(10) == 0
+        assert par(10) == 1
