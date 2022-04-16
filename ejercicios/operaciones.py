@@ -8,8 +8,8 @@ def suma(x,y):
 def par(x):
     
     if x % 2 == 0:
-        par = 1
+        espar = 1
     else:
-        par = 0
+        espar = 0
 
-    return par
+    return espar
